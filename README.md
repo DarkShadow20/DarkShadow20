@@ -22,7 +22,7 @@ Hi, I'm [Kunal Gupta](https://kunalportfolio.netlify.app/), a Full Stack Develop
 - 👨🏽‍💻 I’m currently working on something cool.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Kun_alGupta](https://twitter.com/Kun_alGupta);
-- 📝[Resume]()
+- 📝[Resume](https://drive.google.com/file/d/1k37BS5x6HnGsNrziTcvbpfoYFBpGMygy/view?usp=sharing)
 
 
 
@@ -34,6 +34,5 @@ Hi, I'm [Kunal Gupta](https://kunalportfolio.netlify.app/), a Full Stack Develop
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
