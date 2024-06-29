@@ -22,7 +22,7 @@ Hi, I'm [Kunal Gupta](https://kunalportfolio.netlify.app/), a Full Stack Develop
 - 👨🏽‍💻 I’m currently working on something cool.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Kun_alGupta](https://twitter.com/Kun_alGupta);
-- 📝[Resume](https://drive.google.com/file/d/1CR9sB7R6nRNLpgh-5y1su3R4bneJOiXA/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1WhmjaC2Vn6FU3wgu7asb2ZXdYZSxG0Av/view?usp=sharing)
 
 
 
